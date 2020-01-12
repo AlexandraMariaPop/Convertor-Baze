@@ -1,0 +1,6 @@
+D:\Ale\faculta\ASC\ConvertorBaza\ConvertorBaza\bin\Debug\ConvertorBaza.exe.config
+D:\Ale\faculta\ASC\ConvertorBaza\ConvertorBaza\bin\Debug\ConvertorBaza.exe
+D:\Ale\faculta\ASC\ConvertorBaza\ConvertorBaza\bin\Debug\ConvertorBaza.pdb
+D:\Ale\faculta\ASC\ConvertorBaza\ConvertorBaza\obj\Debug\ConvertorBaza.csprojAssemblyReference.cache
+D:\Ale\faculta\ASC\ConvertorBaza\ConvertorBaza\obj\Debug\ConvertorBaza.exe
+D:\Ale\faculta\ASC\ConvertorBaza\ConvertorBaza\obj\Debug\ConvertorBaza.pdb
